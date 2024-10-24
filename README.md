@@ -1,4 +1,4 @@
-# Blockchain-Enabled-Distributed-Rummy-Proof-for-the-Designers-in-Online-Skill-Gaming-Industries
+# Blockchain-Enabled-Distributed-Rummy-Proof-for-the-Designers-in-Online-Skill-Gaming-Industries [![DOI](https://zenodo.org/badge/877425295.svg)](https://doi.org/10.5281/zenodo.13985216)
 Blockchain-Enabled Distributed Rummy: Proof for the Designers in Online Skill Gaming Industries
 
 Authors: Debendranath Das and Subhamoy Maitra
